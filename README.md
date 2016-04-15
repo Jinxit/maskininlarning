@@ -21,8 +21,11 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | underfitting | underfittning | underanpassning |
 | batch | | ??? |
 | dropout | | bortfall |
+| backpropagation | | bakåtfortplantning |
+| gradient descent/ascent | | nedstigning/uppstigning via gradient |
 | feature | | särdrag |
 | curse of dimensionality | | dimensionalitetens förbannelse |
+| confusion matrix | | förvirringsmatris |
 
 ## Exempel
 
