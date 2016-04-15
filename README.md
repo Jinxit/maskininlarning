@@ -19,11 +19,18 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | neural net | neuralnät | neuronnät |
 | overfitting | överfittning | överanpassning |
 | underfitting | underfittning | underanpassning |
-| batch | | ??? |
+| batch | | sats |
 | dropout | | bortfall |
 | feature | | särdrag |
 | curse of dimensionality | | dimensionalitetens förbannelse |
+| recurrent neural network | | återkommande neuronnät |
+| long short-term memory | | långt korttidsminne |
+| gated recurrent unit | | återkommande grindenhet |
+| unroll | | kavla |
 
 ## Exempel
+### Exempel 1
+> Mitt faltningsneuronnät överanpassade sig betydligt mindre när jag lade till avhoppar-lager.
 
-    - Mitt faltningsneuronnät överanpassade sig betydligt mindre när jag lade till avhoppar-lager.
+### Exempel 2
+> När jag kavlar ut mitt återkommande neuronnät får det inte plats i grafikkortets arbetsminne. Ska jag ersätta långt korttidsminne med återkommande grindenheter istället?
