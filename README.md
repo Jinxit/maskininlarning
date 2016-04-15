@@ -1,4 +1,4 @@
-# Djup Inlärning
+# Maskininlärning (på svenska)
 För vi kan helt ärligt inte hålla på såhär för evigt.
 
 ## Introduktion
