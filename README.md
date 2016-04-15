@@ -20,7 +20,9 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | overfitting | överfittning | överanpassning |
 | underfitting | underfittning | underanpassning |
 | batch | | ??? |
-| dropout | | avhoppare |
+| dropout | | bortfall |
+| feature | | särdrag |
+| curse of dimensionality | | dimensionalitetens förbannelse |
 
 ## Exempel
 
