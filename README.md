@@ -19,7 +19,7 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | neural net | neuralnät | neuronnät |
 | overfitting | överfittning | överanpassning |
 | underfitting | underfittning | underanpassning |
-| batch | | ??? |
+| batch | | sats |
 | dropout | | bortfall |
 | feature | | särdrag |
 | curse of dimensionality | | dimensionalitetens förbannelse |
