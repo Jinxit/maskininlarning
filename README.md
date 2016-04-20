@@ -36,4 +36,5 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 
 > Mitt faltningsneuronnät överanpassade sig betydligt mindre när jag lade till bortfallslager.
 
+<!-- -->
 > När jag kavlar ut mitt återkommande neuronnät får det inte plats i grafikkortets arbetsminne. Ska jag ersätta långt korttidsminne med återkommande grindenheter istället?
