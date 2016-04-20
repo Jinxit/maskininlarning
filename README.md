@@ -26,7 +26,13 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | feature | | särdrag |
 | curse of dimensionality | | dimensionalitetens förbannelse |
 | confusion matrix | | förvirringsmatris |
+| recurrent neural network | | återkommande neuronnät |
+| long short-term memory | | långt korttidsminne |
+| gated recurrent unit | | återkommande grindenhet |
+| unroll | | kavla |
+
 
 ## Exempel
 
-    - Mitt faltningsneuronnät överanpassade sig betydligt mindre när jag lade till avhoppar-lager.
+> Mitt faltningsneuronnät överanpassade sig betydligt mindre när jag lade till bortfallslager.
+> När jag kavlar ut mitt återkommande neuronnät får det inte plats i grafikkortets arbetsminne. Ska jag ersätta långt korttidsminne med återkommande grindenheter istället?
