@@ -30,6 +30,11 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | long short-term memory | | långt korttidsminne |
 | gated recurrent unit | | återkommande grindenhet |
 | unroll | | kavla |
+| nearest-neighbour | | närmaste-granne |
+| classifier | | klassificerare |
+| decision tree | | beslutsträd |
+| subspace methods | | underrumsmetoder |
+
 
 
 ## Exempel
