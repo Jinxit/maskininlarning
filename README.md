@@ -36,6 +36,7 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | subspace methods | | underrumsmetoder |
 | bias | | snedhet |
 | variance | | varians |
+| (un)supervised | | (o)övervakad |
 
 
 
