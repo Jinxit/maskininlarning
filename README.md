@@ -37,6 +37,7 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | bias | | snedhet |
 | variance | | varians |
 | (un)supervised | | (o)övervakad |
+| multimodal distribution | | flertoppig fördelning |
 
 
 
