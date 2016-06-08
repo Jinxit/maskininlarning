@@ -39,8 +39,12 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | variance | | varians |
 | (un)supervised | | (o)övervakad |
 | multimodal distribution | | flertoppig fördelning |
-
-
+| saturated | | mättad |
+| batch normalization | | satsnormalisering |
+| multi-layer perceptron | | flerlagersperceptron |
+| dataset | | datamängd |
+| regularization | | reglering |
+| rectifier | | likriktare |
 
 
 ## Exempel
