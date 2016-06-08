@@ -17,6 +17,7 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | deep learning | | djup inlärning |
 | convolution | konvolution | faltning |
 | neural net | neuralnät | neuronnät |
+| feedforward | | framåtmatande |
 | overfitting | överfittning | överanpassning |
 | underfitting | underfittning | underanpassning |
 | batch | | sats |
