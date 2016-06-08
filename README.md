@@ -33,6 +33,7 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | unroll | | kavla |
 | nearest-neighbour | | närmaste-granne |
 | classifier | | klassificerare |
+| regressor | | tillbakabildare |
 | decision tree | | beslutsträd |
 | subspace methods | | underrumsmetoder |
 | bias | | snedhet |
