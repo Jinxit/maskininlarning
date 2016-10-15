@@ -46,7 +46,7 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | dataset | | datamängd |
 | regularization | | reglering |
 | rectifier | | likriktare |
-| cross-validation | | kryssvalidering |
+| cross-validation | | korsvalidering |
 
 
 ## Exempel
