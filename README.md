@@ -39,7 +39,7 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | regression | | regressionsanalys |
 | decision tree | | beslutsträd |
 | subspace methods | | underrumsmetoder |
-| bias | | snedhet/bias/metodfel |
+| bias | | väntevärdesriktighet/förväntningsskevhet |
 | variance | | varians |
 | (un)supervised | | (o)övervakad |
 | mode | | modalvärde |
@@ -63,4 +63,7 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 
 ## Källor
 "Statistisk lexikon: svenska-engelska". https://math.aalto.fi/opetus/sovtoda/sanastot/sv2en.html (Hämtad 2018-08-27).
+
 "regularisering". Nationalencyklopedin: https://www.ne.se/uppslagsverk/encyklopedi/l%C3%A5ng/regularisering (Hämtad 2018-08-27).
+
+"Väntevärdesriktig". Wikipedia. https://sv.wikipedia.org/wiki/V%C3%A4ntev%C3%A4rdesriktig (Hämtad 2018-08-30).
