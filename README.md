@@ -39,7 +39,7 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | regression | | regressionsanalys |
 | decision tree | | beslutsträd |
 | subspace methods | | underrumsmetoder |
-| bias | | väntevärdesriktighet/förväntningsskevhet |
+| bias | | ej väntevärdesriktig/förväntningsskev |
 | variance | | varians |
 | (un)supervised | | (o)övervakad |
 | mode | | modalvärde |
