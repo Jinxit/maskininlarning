@@ -14,7 +14,8 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | Engelska | Svengelska | Svenska |
 |--------------|----------------|-------------|
 | machine learning | | maskininlärning |
-| deep learning | | djup inlärning |
+| deep learning | | djup inlärning/djup maskininlärning |
+| distribution | | fördelning |
 | convolution | konvolution | faltning |
 | neural net | neuralnät | neuronnät |
 | feedforward | | framåtmatande |
@@ -23,28 +24,31 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | batch | | sats |
 | dropout | | bortfall |
 | backpropagation | | bakåtfortplantning |
-| gradient descent/ascent | | nedstigning/uppstigning via gradient |
-| feature | | särdrag |
+| gradient descent/ascent | | nedstigning/uppstigning med gradientmetoden |
+| feature | | särdrag/egenskap |
+| fit | | anpassa |
 | curse of dimensionality | | dimensionalitetens förbannelse |
 | confusion matrix | | förvirringsmatris |
 | recurrent neural network | | återkommande neuronnät |
 | long short-term memory | | långt korttidsminne |
 | gated recurrent unit | | återkommande grindenhet |
-| unroll | | kavla |
+| unroll | | kavla/rulla ut |
 | nearest-neighbour | | närmaste-granne |
 | classifier | | klassificerare |
 | regressor | | tillbakabildare |
+| regression | | regressionsanalys |
 | decision tree | | beslutsträd |
 | subspace methods | | underrumsmetoder |
-| bias | | snedhet |
+| bias | | ej väntevärdesriktig/förväntningsskev |
 | variance | | varians |
 | (un)supervised | | (o)övervakad |
-| multimodal distribution | | flertoppig fördelning |
+| mode | | modalvärde |
+| multimodal distribution | | multimodal/flertoppig fördelning |
 | saturated | | mättad |
 | batch normalization | | satsnormalisering |
 | multi-layer perceptron | | flerlagersperceptron |
 | dataset | | datamängd |
-| regularization | | reglering |
+| regularization | | regularisering/reglering |
 | rectifier | | likriktare |
 | cross-validation | | korsvalidering |
 
@@ -55,3 +59,11 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 
 <!-- -->
 > När jag kavlar ut mitt återkommande neuronnät får det inte plats i grafikkortets arbetsminne. Ska jag ersätta långt korttidsminne med återkommande grindenheter istället?
+
+
+## Källor
+"Statistisk lexikon: svenska-engelska". https://math.aalto.fi/opetus/sovtoda/sanastot/sv2en.html (Hämtad 2018-08-27).
+
+"regularisering". Nationalencyklopedin: https://www.ne.se/uppslagsverk/encyklopedi/l%C3%A5ng/regularisering (Hämtad 2018-08-27).
+
+"Väntevärdesriktig". Wikipedia. https://sv.wikipedia.org/wiki/V%C3%A4ntev%C3%A4rdesriktig (Hämtad 2018-08-30).
