@@ -46,11 +46,12 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | multimodal distribution | | multimodal/flertoppig fördelning |
 | saturated | | mättad |
 | batch normalization | | satsnormalisering |
-| multi-layer perceptron | | flerlagersperceptron |
+| multi-layer perceptron | | flerlagersigenkännare |
 | dataset | | datamängd |
 | regularization | | regularisering/reglering |
 | rectifier | | likriktare |
 | cross-validation | | korsvalidering |
+| perceptron | perceptron | igenkännare |
 
 
 ## Exempel
