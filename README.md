@@ -27,6 +27,7 @@ Nedan följer tabeller över förslag på översättningar. Vissa av dessa anvä
 | gradient descent/ascent | | nedstigning/uppstigning med gradientmetoden |
 | feature | | särdrag/egenskap |
 | fit | | anpassa |
+| outlier | anomali | uteliggare |
 | curse of dimensionality | | dimensionalitetens förbannelse |
 | confusion matrix | | förvirringsmatris |
 | recurrent neural network | | återkommande neuronnät |
